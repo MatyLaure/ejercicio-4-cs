@@ -1,0 +1,15 @@
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\bin\Debug\net6.0\ejercicio bucles 4 parte2.exe
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\bin\Debug\net6.0\ejercicio bucles 4 parte2.deps.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\bin\Debug\net6.0\ejercicio bucles 4 parte2.runtimeconfig.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\bin\Debug\net6.0\ejercicio bucles 4 parte2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\bin\Debug\net6.0\ejercicio bucles 4 parte2.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.csproj.AssemblyReference.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.AssemblyInfoInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.AssemblyInfo.cs
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.csproj.CoreCompileInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\refint\ejercicio bucles 4 parte2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ejercicio bucles 4 parte2.genruntimeconfig.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\ejercicio bucles 4 parte2\obj\Debug\net6.0\ref\ejercicio bucles 4 parte2.dll
